@@ -1,0 +1,6 @@
+{application, ketama, [
+    {description, "A consistent hashing library application"},
+    {vsn, git},
+    {applications, [kernel,stdlib]},
+    {registered, []}
+]}.
